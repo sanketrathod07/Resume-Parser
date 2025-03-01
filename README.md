@@ -15,7 +15,6 @@ Resume Parser’s second component is the resume parser. For those who have an e
 
 ![Resume Parser Demo](https://i.ibb.co/JvSVwNk/resume-parser-demo-optimize.gif)
 
-You can learn more about the resume parser algorithm in the ["Resume Parser Algorithm Deep Dive" section](https://open-resume.com/resume-parser).
 
 ## 💻 Local Development
 
